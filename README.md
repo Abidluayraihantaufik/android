@@ -142,4 +142,13 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 # OUTPUT HASIL FIBBONANCI
-
+![img](Gambar/1.jpg)
+![img](Gambar/2.jpg)
+![img](Gambar/3.jpg)
+![img](Gambar/4.jpg)
+![img](Gambar/5.jpg)
+![img](Gambar/6.jpg)
+![img](Gambar/7.jpg)
+![img](Gambar/8.jpg)
+![img](Gambar/9.jpg)
+![img](Gambar/10.jpg)
