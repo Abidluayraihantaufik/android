@@ -32,4 +32,12 @@ public class MainActivity extends AppCompatActivity {
         if (mShowCount != null)
             mShowCount.setText(Integer.toString(next));
     }
+
+    public void reset(View view) {
+        mCount = 0;
+        secondCount = 1;
+        if(mShowCount != null) {
+            mShowCount.setText(Integer.toString(mCount));
+        }
+    }
 }
