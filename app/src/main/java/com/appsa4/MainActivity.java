@@ -30,9 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    package com.appsa4.
-import android.content.Intent;
-import android.provider.AlarmClock;
+
 
     public class Project_alarm {
     }

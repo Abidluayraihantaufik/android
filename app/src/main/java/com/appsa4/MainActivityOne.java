@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivityOne extends AppCompatActivity {
     private static final String LOG_TAG = MainActivityOne.class.getSimpleName();
 
-    public static final String EXTRA_MESSAGE = "com.a4.daffaapps.extra.MESSAGE";
+    public static final String EXTRA_MESSAGE = "com.appsa4.extra.MESSAGE";
 
     public static final int TEXT_REQUEST = 1;
 
